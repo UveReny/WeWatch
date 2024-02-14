@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Watch</string>
+    <string name="add_movie_toolbar_title">Add movie</string>
+    <string name="movie_search_toolbar_title">Search Results</string>
+    <string name="movie_title_hint">Movie Title</string>
+    <string name="movie_release_year_hint">Release Year</string>
+    <string name="add_movie_button">Add Movie</string>
+    <string name="movie_poster_content_description">Movie\'s poster</string>
+    <string name="movie_type_hint">Movie type</string>
+    <string name="add_movie_blank_title_message">The title of movie cannot be blank</string>
+    <string name="add_movie_success_message">Movie was added</string>
+    <string name="add_movie_to_watch_content_description">Add movie to watch</string>
+    <string name="delete_selected_movies_menu_item">Delete selected movies</string>
+    <string name="delete_movies_success">Movies have been deleted</string>
+    <string name="delete_movies_no_selected_items">At least one movie must be selected for deletion</string>
+    <string name="movie_list_empty_image_content_description">Image of empty movie list</string>
+    <string name="movie_list_empty_message">There are currently no movies in your watch list</string>
+    <string name="movie_list_empty_add_message">Tap the button below to get started!</string>
+    <string name="movie_title_text_input_layout_end_icon_content_description">Search movies by the title</string>
+</resources>
