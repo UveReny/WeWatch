@@ -3,7 +3,7 @@ package com.sample.watch.database
 import java.util.*
 import androidx.room.TypeConverter
 
-class TypeConverters {
+class LocalTypeConverters {
     @TypeConverter
     fun fromDate(date: Date?): Long? {
         return date?.time
